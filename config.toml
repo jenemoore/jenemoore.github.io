@@ -1,0 +1,20 @@
+baseURL = 'http://jenemoore.github.io/'
+languageCode = 'en-us'
+title = 'commonplace book'
+
+theme = 'gokarna'
+
+enableRobotsTXT = true
+
+[menu]
+  [[menu.main]]
+	  identifier = 'notes'
+		url = '/notes/'
+		name = 'notes'
+		pre = '<span data-feather="edit-3"></span>'
+		weight = 1
+	[[menu.main]]
+	  identifier = 'tags'
+		url = '/tags/'
+		name = 'tags'
+		weight = 2
