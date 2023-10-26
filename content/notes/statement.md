@@ -1,8 +1,4 @@
 ---
-type: "post"
----
-
----
 title: "statement of purpose"
 date: 2023-10-25T17:48:57-05:00
 draft: false

@@ -1,8 +1,11 @@
 ---
+title: "taskwarrior"
 type: "post"
+date: 2023-07-11
+tags: "todo"
 ---
 
-# Taskwarrior - repairing usage
+# Taskwarrior 
 
 Tue Jul 11 10:37:45 CDT 2023
 

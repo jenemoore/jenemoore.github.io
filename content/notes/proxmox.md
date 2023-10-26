@@ -1,5 +1,8 @@
 ---
+title: "adding disks to proxmox"
 type: "post"
+date: 2023-05-05
+tags: "proxmox"
 ---
 
 # Proxmox

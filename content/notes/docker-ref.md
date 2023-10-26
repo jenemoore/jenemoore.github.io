@@ -1,5 +1,8 @@
 ---
+title: "Docker quickref"
 type: "post"
+date: 2023-02-25
+tags: "docker", "quickref"
 ---
 
 # Docker Commands

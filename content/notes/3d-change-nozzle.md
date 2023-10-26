@@ -1,5 +1,8 @@
 ---
+title: "Changing the nozzle"
 type: "post"
+date: 2023-05-15
+tags: "3d printer", "ender 3"
 ---
 
 ## Changing the nozzle

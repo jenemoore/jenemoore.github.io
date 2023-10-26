@@ -1,5 +1,8 @@
 ---
+title: "nginx web server"
 type: "post"
+date: 2023-05-23
+tags: "selfhosting", "config"
 ---
 
 # Nginx

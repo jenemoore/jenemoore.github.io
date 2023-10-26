@@ -1,9 +1,12 @@
 ---
+title: "Mac keybindings"
 type: "post"
+date: 2023-02-24
+tags: "mac"
 ---
 
-* list all keybindings with `bind -P` (this might be Linux)
-* use an .inputrc to add keybindings (...also Linux)
+* list all keybindings with `bind -P` 
+* use an .inputrc to add keybindings 
 * https://stitcher.io/blog/mastering*key*bindings
 * https://knock.app/blog/how*to*design*great*keyboard*shortcuts (includes maps)
 * also uses ~/Library/Keybindings/DefaultKeyBinding.dict

@@ -1,5 +1,8 @@
 ---
+title: "todo.txt"
 type: "post"
+date: 2023-06-27
+tags: "todo"
 ---
 
 # Todo.txt
@@ -17,4 +20,3 @@ type: "post"
 ## Ideology
 
 - the todo.txt list should be human-readable: this sorts alphabetically in a meaningful way
-- the  

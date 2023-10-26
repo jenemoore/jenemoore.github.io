@@ -1,8 +1,10 @@
 ---
+title: "troubleshooting"
 type: "post"
+date: 2023-08-01
+tags: "3d printing", "ender 3"
 ---
 
-# 8/1/2023
 
 - prints slipping and getting messier the longer the printer runs:
 - tighten belts

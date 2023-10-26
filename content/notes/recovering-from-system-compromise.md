@@ -1,5 +1,8 @@
 ---
+title: "recovering from system compromise"
 type: "post"
+date: 2023-02-02
+tags: "linux", "security"
 ---
 
 # CERT Coordination Center Guide to Recovering from a UNIX System Compromise

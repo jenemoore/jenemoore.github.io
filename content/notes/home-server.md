@@ -1,5 +1,8 @@
 ---
+title: "setting up a home server"
 type: "post"
+date: 2022-10-16
+tags: "selfhosting"
 ---
 
 * For the most part, it doesn't matter what OS you use

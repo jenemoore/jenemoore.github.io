@@ -1,5 +1,8 @@
 ---
+title: "Vim"
 type: "post"
+date: 2023-02-28
+tags: "vim"
 ---
 
 # To Do

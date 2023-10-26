@@ -1,5 +1,8 @@
 ---
+title: "ssh into Windows"
 type: "post"
+date: 2023-02-27
+tags: "networking", "windows"
 ---
 
 # SSH into Windows 10 or 11

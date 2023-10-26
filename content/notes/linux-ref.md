@@ -1,5 +1,8 @@
 ---
+title: "Linux quickref"
 type: "post"
+date: 2023-02-25
+tags: "linux", "quickref"
 ---
 
 # Linux Quickref

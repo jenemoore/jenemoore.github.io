@@ -1,18 +1,21 @@
 ---
+title: "mount external drive to homeassistant"
 type: "post"
+date: 2023-08-15
+tags: "homeassistant"
 ---
 
 Create the instruction in configuration.yaml:
 
 
-`mount_nas_folder: mkdir -p /media/leopard;mount NFS_SERVER:EXPORTED_DIRECTORY /media/leopard`
+`mount_nas_folder: mkdir -p /mount/folder;mount NFS_SERVER:EXPORTED_DIRECTORY /mount/folder
 
 
 Then add this automation in automations.yaml:
 
 ```
 - id: "mount_nas"
-  alias: Mount Leopard Media Folder
+  alias: Mount Media Folder
 	description: Mounts for use with Music Assistant
 	trigger:
 	  - platform: homeassistant
@@ -23,4 +26,4 @@ Then add this automation in automations.yaml:
 		  data: {}
 ```
 
-Then restart and check for Leopard in the Media browser
+Then restart and check for the drive in the Media browser

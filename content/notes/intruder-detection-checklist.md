@@ -1,5 +1,8 @@
 ---
+title: "Intruder Detection Checklist"
 type: "post"
+date: 2023-02-02
+tags: "copied", "security"
 ---
 
 1. Examine log files for connections from unusual locations or other unusual activity. For example, look at your 'last' log, process accounting, all logs created by syslog, and other security logs. If your firewall or router writes logs to a different location than the compromised system, remember to check these logs also. Note that this is not foolproof unless you log to append-only media; many intruders edit log files in an attempt to hide their activity.

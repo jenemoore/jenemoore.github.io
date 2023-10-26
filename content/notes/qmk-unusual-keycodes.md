@@ -1,8 +1,11 @@
 ---
+title: "QMK keycodes"
 type: "post"
+date: 2023-06-27
+tags: "qmk"
 ---
 
-# Unusual keycodes available in QMK
+# keycodes available in QMK
 
 ## Linux-only
 

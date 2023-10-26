@@ -1,5 +1,8 @@
 ---
+title: "cron jobs"
 type: "post"
+date: 2023-05-09
+tags: "linux", "automation"
 ---
 
 # Linux

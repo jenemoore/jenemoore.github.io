@@ -1,5 +1,8 @@
 ---
+title: "find large files"
 type: "post"
+date: 2023-02-11
+tags: "linux"
 ---
 
 # Find large files

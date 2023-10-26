@@ -1,5 +1,8 @@
 ---
+title: "tuning stabilizers"
 type: "post"
+date: 2022-12-07
+tags: "keyboards"
 ---
 
 00 or 000 paintbrushes; krytox (dielectric grease for the wires if you want to)

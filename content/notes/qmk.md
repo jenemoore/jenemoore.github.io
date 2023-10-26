@@ -1,5 +1,8 @@
 ---
+title: "QMK"
 type: "post"
+date: 2023-06-02
+tags: "qmk"
 ---
 
 # QMK aka I Guess I'm Learning C Now

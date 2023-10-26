@@ -1,5 +1,8 @@
 ---
+title: "regex"
 type: "post"
+date: 2023-02-06
+tags: "script", "quickref"
 ---
 
 # Regexes

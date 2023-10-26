@@ -1,5 +1,8 @@
 ---
+title: "Linux filesystem"
 type: "post"
+date: 2023-07-23
+tags: "linux"
 ---
 
 # Directory structure & rules

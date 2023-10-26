@@ -1,12 +1,9 @@
 ---
+title: "dnsomatic"
 type: "post"
+date: 2023-05-29
+tags: "rough", "dns", "cloudflare"
 ---
-
-created: 20230113212539865
-modified: 20230113213439285
-tags: 
-title: DDNS with Dnsomatic and Cloudflare
-type: text/vnd.tiddlywiki
 
 ! DNSomatic:
 

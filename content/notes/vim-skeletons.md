@@ -1,5 +1,8 @@
 ---
+title: "templates for Vim"
 type: "post"
+date: 2023-04-14
+tags: "vim"
 ---
 
 # Native Vim Templates

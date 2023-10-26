@@ -1,8 +1,10 @@
 ---
+title: "Install Debian on a MyCloud Home"
 type: "post"
+date: 2023-01-29
+tags: "linux", "debian", "firmware", "mycloud"
 ---
 
-Okay, I can't handle this thing anymore. I don't even know if I need an actual NAS, but here's the process—
 
 1. BACK UP. All that data needs to go somewhere; fortunately I'm already working on de-duplicating files and settling on backups. Pretend the drive is dying and everything needs to exist somewhere else.
 

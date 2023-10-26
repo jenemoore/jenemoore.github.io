@@ -1,5 +1,8 @@
 ---
+title: "finishing 3d prints"
 type: "post"
+date: 2023-02-13
+tags: "3d printing"
 ---
 
 # Finishing 3d Prints

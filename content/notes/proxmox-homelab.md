@@ -1,15 +1,10 @@
 ---
+title: "setting up a new cloned VM"
 type: "post"
+date: 2023-03-25
+tags: "proxmox", "selfhosting"
 ---
 
-3/3/23
-
-* Got about halfway through the web hosting article, including setting up DDNS
-* The rest of it involves a huge amount of typing, so rather than actually typing it all I'm...apparently going to do exactly that. Sigh.  
-
-3/25/23
-
-4A:45:39:6F:C7:DF
 
 ## Setting up a new VM clone
 

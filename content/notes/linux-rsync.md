@@ -1,5 +1,8 @@
 ---
+title: "rsync"
 type: "post"
+date: 2023-02-11
+tags: "linux", "automation"
 ---
 
 # Use rsync to move files and folders between machines

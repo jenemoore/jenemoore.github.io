@@ -1,5 +1,8 @@
 ---
+title: "how to send email from a linux server"
 type: "post"
+date: 2023-05-09
+tags: "copied", "selfhosting", "email"
 ---
 
 # Homelabbing
