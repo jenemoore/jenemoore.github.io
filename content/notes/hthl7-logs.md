@@ -1,3 +1,7 @@
+---
+type: "post"
+---
+
 # How to Homelab
 ## Part 7: Log Management
 

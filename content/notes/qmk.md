@@ -1,3 +1,7 @@
+---
+type: "post"
+---
+
 # QMK aka I Guess I'm Learning C Now
 
 ## QMK cli

@@ -1,3 +1,7 @@
+---
+type: "post"
+---
+
 # To Do
 
 - create a mapping for paste mode: need to set a toggle

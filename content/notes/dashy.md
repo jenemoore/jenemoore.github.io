@@ -1,3 +1,7 @@
+---
+type: "post"
+---
+
 So we're doing this again it seems
 
 (this time on a virtual machine)

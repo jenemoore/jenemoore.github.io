@@ -1,3 +1,7 @@
+---
+type: "post"
+---
+
 # NGINX
 ## setting up multiple domain names each with multiple subdomains for reverse proxy
 

@@ -1,3 +1,7 @@
+---
+type: "post"
+---
+
 # Frontend Development Vim Cheatsheet
 
 ## tpope/vim-surround

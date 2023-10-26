@@ -1,3 +1,7 @@
+---
+type: "post"
+---
+
 ##Home networking with a home server
 
 Four basic components:

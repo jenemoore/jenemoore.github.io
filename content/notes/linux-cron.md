@@ -1,3 +1,7 @@
+---
+type: "post"
+---
+
 # Linux
 ## Cron jobs
 

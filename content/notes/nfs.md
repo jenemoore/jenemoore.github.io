@@ -1,3 +1,7 @@
+---
+type: "post"
+---
+
 # Automounting NFS shares
 
 ## Create the mount to make sure it works:

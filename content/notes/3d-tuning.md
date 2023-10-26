@@ -1,3 +1,7 @@
+---
+type: "post"
+---
+
 # 8/1/2023
 
 - prints slipping and getting messier the longer the printer runs:

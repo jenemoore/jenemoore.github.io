@@ -1,3 +1,7 @@
+---
+type: "post"
+---
+
 1. Examine log files for connections from unusual locations or other unusual activity. For example, look at your 'last' log, process accounting, all logs created by syslog, and other security logs. If your firewall or router writes logs to a different location than the compromised system, remember to check these logs also. Note that this is not foolproof unless you log to append-only media; many intruders edit log files in an attempt to hide their activity.
 
 1. Look for setuid and setgid files (especially setuid root files) everywhere on your system. Intruders often leave setuid copies of /bin/sh or /bin/time around to allow them root access at a late time. The UNIX find(1) program can be used to hunt for setuid and/or setgid files. For example, you can use the following commands to find setuid root files and setgid kmem files on the entire file system:

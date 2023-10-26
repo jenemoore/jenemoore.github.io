@@ -1,3 +1,7 @@
+---
+type: "post"
+---
+
 # Directory structure & rules
 
 ## Top-level directories:

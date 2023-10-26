@@ -1,3 +1,7 @@
+---
+type: "post"
+---
+
 # How to print parts that fit together
 
 ## 1. Calibrate the e-step per mm setting

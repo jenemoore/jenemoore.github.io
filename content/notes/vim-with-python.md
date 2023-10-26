@@ -1,3 +1,7 @@
+---
+type: "post"
+---
+
 # Use the pi-rho PPA
 
 1. `sudo add-apt-repository ppa:pi-rho/dev`

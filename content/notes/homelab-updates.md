@@ -1,3 +1,7 @@
+---
+type: "post"
+---
+
 # Homelabbing
 ## Managing updates
 

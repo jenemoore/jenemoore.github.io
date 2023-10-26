@@ -1,3 +1,7 @@
+---
+type: "post"
+---
+
 # Nginx
 see nginx.conf for server configuration
 

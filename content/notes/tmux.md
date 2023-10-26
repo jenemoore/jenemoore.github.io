@@ -1,3 +1,7 @@
+---
+type: "post"
+---
+
 # Tmux
 
 ## Configuration

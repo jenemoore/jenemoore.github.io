@@ -1,3 +1,7 @@
+---
+type: "post"
+---
+
 # Proxmox
 
 Move to a new disk, same size or larger: use Clonezilla

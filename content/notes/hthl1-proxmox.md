@@ -1,3 +1,7 @@
+---
+type: "post"
+---
+
 # How To Homelab
 ## Part 1: Proxmox VE
 

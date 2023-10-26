@@ -1,3 +1,7 @@
+---
+type: "post"
+---
+
 # Gridfinity: Recommended print settings
 
 - 0.6mm nozzle

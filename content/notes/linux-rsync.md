@@ -1,3 +1,7 @@
+---
+type: "post"
+---
+
 # Use rsync to move files and folders between machines
 
 ## Copy files from a remote machine to your local machine

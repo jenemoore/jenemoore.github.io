@@ -1,3 +1,7 @@
+---
+type: "post"
+---
+
 u Setting up the CHIP to run Debian Bullseye
 
 NB: For what it's worth, I think the HDMI adapter is broken, or is breaking the CHIP, don't use it if you can at all avoid it

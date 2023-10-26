@@ -1,3 +1,7 @@
+---
+type: "post"
+---
+
 # CERT Coordination Center Guide to Recovering from a UNIX System Compromise
 
 1. Document all the steps you take--this is a stressful process and you're likely to make hasty decisions

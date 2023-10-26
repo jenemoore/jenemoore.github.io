@@ -1,3 +1,7 @@
+---
+type: "post"
+---
+
 # How to Homelab
 ## Part 6: Hosting on the Open Web
 

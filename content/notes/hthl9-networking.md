@@ -1,3 +1,7 @@
+---
+type: "post"
+---
+
 # How to Homelab
 ## Part 9: Expanding Your Home Network
 

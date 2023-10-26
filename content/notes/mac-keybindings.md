@@ -1,3 +1,7 @@
+---
+type: "post"
+---
+
 * list all keybindings with `bind -P` (this might be Linux)
 * use an .inputrc to add keybindings (...also Linux)
 * https://stitcher.io/blog/mastering*key*bindings

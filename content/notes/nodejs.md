@@ -1,3 +1,7 @@
+---
+type: "post"
+---
+
 # Learning Node
 
 (I hate it but maybe that's because I don't know it very well)

@@ -1,3 +1,7 @@
+---
+type: "post"
+---
+
 3/3/23
 
 * Got about halfway through the web hosting article, including setting up DDNS

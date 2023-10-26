@@ -1,3 +1,7 @@
+---
+type: "post"
+---
+
 # SSH into Windows 10 or 11
 
 ## Setup

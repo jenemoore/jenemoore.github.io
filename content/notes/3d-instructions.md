@@ -1,3 +1,7 @@
+---
+type: "post"
+---
+
 ## Changing the nozzle
 1. Preheat hot end
 2. Remove silicone sock

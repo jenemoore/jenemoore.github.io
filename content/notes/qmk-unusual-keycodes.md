@@ -1,3 +1,7 @@
+---
+type: "post"
+---
+
 # Unusual keycodes available in QMK
 
 ## Linux-only

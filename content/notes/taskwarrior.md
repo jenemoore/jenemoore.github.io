@@ -1,3 +1,7 @@
+---
+type: "post"
+---
+
 # Taskwarrior - repairing usage
 
 Tue Jul 11 10:37:45 CDT 2023

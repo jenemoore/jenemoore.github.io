@@ -1,3 +1,7 @@
+---
+type: "post"
+---
+
 * For the most part, it doesn't matter what OS you use
 * Hypervisor = run a number of virtual machines, no desktop GUI
 ** Proxmox, TureNAS, UNRAID

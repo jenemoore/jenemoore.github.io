@@ -1,3 +1,7 @@
+---
+type: "post"
+---
+
 # Boilerplate
 
 After setting up a new VM--especially a clone--run the following commands

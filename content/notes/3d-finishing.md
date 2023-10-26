@@ -1,3 +1,7 @@
+---
+type: "post"
+---
+
 # Finishing 3d Prints
 
 ## Tools

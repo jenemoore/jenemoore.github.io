@@ -1,3 +1,7 @@
+---
+type: "post"
+---
+
 # Docker Commands
 
 ## Launch an interactive shell

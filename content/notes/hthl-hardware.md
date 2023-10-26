@@ -1,3 +1,7 @@
+---
+type: "post"
+---
+
 # pfSense Standalone Hardware
 - use Surprise
 - Netgate 1100 comes w/pfSense installed

@@ -1,3 +1,7 @@
+---
+type: "post"
+---
+
 # Homelabbing
 ## How to send email from a Linux server
 

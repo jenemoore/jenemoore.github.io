@@ -1,3 +1,7 @@
+---
+type: "post"
+---
+
 # Bolts and nuts
 
  I- M2x8 socket head screw

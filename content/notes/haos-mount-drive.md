@@ -1,3 +1,7 @@
+---
+type: "post"
+---
+
 Create the instruction in configuration.yaml:
 
 

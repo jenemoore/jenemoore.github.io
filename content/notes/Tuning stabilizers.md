@@ -1,3 +1,7 @@
+---
+type: "post"
+---
+
 00 or 000 paintbrushes; krytox (dielectric grease for the wires if you want to)
 
 1. disassemble stabs: pull out the wires and separate all parts (housing, wire, stem)

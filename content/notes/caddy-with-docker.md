@@ -1,3 +1,7 @@
+---
+type: "post"
+---
+
 # docker-compose file to support Caddy/HTTPS:
 
 services:

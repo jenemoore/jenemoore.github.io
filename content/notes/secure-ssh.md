@@ -1,3 +1,7 @@
+---
+type: "post"
+---
+
 # Securing an SSH Server
 
 ## Redhat checklist:

@@ -1,3 +1,11 @@
+---
+type: "post"
+---
+
+---
+type: "post"
+---
+
 #! /bin/bash
 
 day=$(date +"%u")

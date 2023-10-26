@@ -1,3 +1,7 @@
+---
+type: "post"
+---
+
 # Native Vim Templates
 
 * create a directory for the skeleton files (template files)

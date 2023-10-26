@@ -1,3 +1,7 @@
+---
+type: "post"
+---
+
 * deburring tool for cleaning up prints
 * hook and pick set for cleaning up prints
 * MK8 nozzles

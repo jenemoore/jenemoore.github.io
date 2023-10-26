@@ -1,3 +1,7 @@
+---
+type: "post"
+---
+
 ##So You Want To Self-Host A Website
 You'll need:
 1) a server

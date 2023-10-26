@@ -1,3 +1,7 @@
+---
+type: "post"
+---
+
 # How to Homelab
 ## Part 3: Hosting an Intranet Site with pfSense and NAT
 
