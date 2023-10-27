@@ -2,7 +2,8 @@
 title: Ender 3 parts list
 type: post
 date: 2023-08-03
-tags: ender-3
+tags: 
+- ender-3
 ---
 
 # Bolts and nuts

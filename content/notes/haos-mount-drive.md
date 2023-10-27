@@ -2,7 +2,8 @@
 title: haos mount drive
 type: post
 date: 2023-08-15
-tags: homeassistant
+tags: 
+- homeassistant
 ---
 
 Create the instruction in configuration.yaml:

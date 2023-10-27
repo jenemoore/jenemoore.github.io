@@ -2,7 +2,8 @@
 title: proxmox
 type: post
 date: 2023-05-05
-tags: proxmox
+tags: 
+- proxmox
 ---
 
 # Proxmox

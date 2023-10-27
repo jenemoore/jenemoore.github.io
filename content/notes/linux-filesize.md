@@ -2,7 +2,8 @@
 title: linux filesize
 type: post
 date: 2023-02-11
-tags: linux
+tags: 
+- linux
 ---
 
 # Find large files

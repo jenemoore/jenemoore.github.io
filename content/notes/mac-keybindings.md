@@ -2,7 +2,8 @@
 title: Mac keybindings
 type: post
 date: 2023-02-24
-tags: mac
+tags: 
+- mac
 ---
 
 * list all keybindings with `bind -P` 

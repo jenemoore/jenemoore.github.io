@@ -2,7 +2,8 @@
 title: Gridfinity print settings
 type: post
 date: 2023-05-15
-tags: 3d-printing
+tags:
+- 3d-printing
 ---
 
 # Gridfinity: Recommended print settings

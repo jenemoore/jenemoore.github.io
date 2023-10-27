@@ -2,7 +2,8 @@
 title: Vim notes
 type: post
 date: 2023-02-28
-tags: vim
+tags: 
+- vim
 ---
 
 - use non-recursive mapping (nore) if you're using standard commands; use recursive mapping (?map) if you're including other mappings in your map

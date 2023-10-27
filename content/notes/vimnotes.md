@@ -2,7 +2,8 @@
 title: Vim notes
 type: post
 date: 2023-02-28
-tags: vim
+tags: 
+- vim
 ---
 
 # To Do

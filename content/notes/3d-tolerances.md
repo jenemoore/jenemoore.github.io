@@ -2,7 +2,8 @@
 title: 3d printer tolerances
 type: post
 date: 2023-03-08
-tags: 3d-printing
+tags: 
+- 3d-printing
 ---
 
 # How to print parts that fit together
