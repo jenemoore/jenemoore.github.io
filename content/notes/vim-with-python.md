@@ -1,8 +1,10 @@
 ---
-title: "installing Vim with Python support"
-type: "post"
+title: vim with python
+type: post
 date: 2023-03-20
-tags: "vim", "linux"
+tags: 
+- vim
+- linux
 ---
 
 # Use the pi-rho PPA

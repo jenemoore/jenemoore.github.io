@@ -1,8 +1,10 @@
 ---
-title: "default port assignments"
-type: "post"
+title: ports
+type: post
 date: 2023-01-29
-tags: "networking", "windows"
+tags: 
+- networking
+- windows
 ---
 20 - TCP - FTP data
 21 - TCP - FTP control

@@ -1,8 +1,10 @@
 ---
-title: "setting up a new cloned VM"
-type: "post"
+title: proxmox homelab
+type: post
 date: 2023-03-25
-tags: "proxmox", "selfhosting"
+tags: 
+- proxmox
+- selfhosting
 ---
 
 

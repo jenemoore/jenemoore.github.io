@@ -1,8 +1,10 @@
 ---
-title: "vim for frontend"
-type: "post"
+title: vim for frontend
+type: post
 date: 2023-07-12
-tags: "vim", "quickref"
+tags: 
+- vim
+- quickref
 ---
 
 # Frontend Development Vim Cheatsheet

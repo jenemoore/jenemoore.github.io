@@ -1,8 +1,10 @@
 ---
-title: "part sources"
-type: "post"
+title: 3d printing parts
+type: post
 date: 2023-08-01
-tags: "3d printing", "ender 3"
+tags: 
+- 3d-printing
+- ender-3
 ---
 
 # Sources

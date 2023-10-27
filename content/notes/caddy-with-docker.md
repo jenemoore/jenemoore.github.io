@@ -1,8 +1,10 @@
 ---
-title: "caddy with docker"
-type: "post"
+title: caddy with docker
+type: post
 date: 2023-01-29
-tags: "selfhosting", "docker"
+tags: 
+- selfhosting
+- docker
 ---
 
 # docker-compose file to support Caddy/HTTPS:

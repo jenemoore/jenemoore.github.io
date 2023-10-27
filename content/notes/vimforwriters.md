@@ -1,8 +1,10 @@
 ---
-title: "a vimrc for writers"
-type: "post"
+title: vim for writers
+type: post
 date: 2022-10-10
-tags: "vim", "config"
+tags: 
+- vim
+- config
 ---
 
 "a vimrc for writers

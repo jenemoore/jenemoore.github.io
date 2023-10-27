@@ -1,8 +1,10 @@
 ---
-title: "motd script"
-type: "post"
+title: motd
+type: post
 date: 2023-05-07
-tags: "script", "linux"
+tags: 
+- script
+- linux
 ---
 
 ---

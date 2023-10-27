@@ -1,8 +1,11 @@
 ---
-title: "dnsomatic"
-type: "post"
+title: dnsomatic
+type: post
 date: 2023-05-29
-tags: "rough", "dns", "cloudflare"
+tags: 
+- rough
+- dns
+- cloudflare
 ---
 
 ! DNSomatic:

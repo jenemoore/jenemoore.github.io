@@ -1,8 +1,10 @@
 ---
-title: "nfs shares"
-type: "post"
+title: nfs
+type: post
 date: 2023-02-08
-tags: "linux", "automation"
+tags: 
+- linux
+- automation
 ---
 
 # Automounting NFS shares

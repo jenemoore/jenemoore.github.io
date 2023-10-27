@@ -1,8 +1,10 @@
 ---
-title: "QMK keycodes"
-type: "post"
+title: QMK unusual keycodes
+type: post
 date: 2023-06-27
-tags: "qmk"
+tags: 
+- qmk
+- keyboards
 ---
 
 # keycodes available in QMK

@@ -1,8 +1,11 @@
 ---
-title: "proxmox vm boilerplate"
-type: "post"
+title: proxmox boilerplate
+type: post
 date: 2023-05-25
-tags: "selfhosting", "script", "proxmox"
+tags: 
+- selfhosting
+- script
+- proxmox
 ---
 
 # Boilerplate

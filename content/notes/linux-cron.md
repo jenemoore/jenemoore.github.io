@@ -1,8 +1,10 @@
 ---
-title: "cron jobs"
-type: "post"
+title: linux cron
+type: post
 date: 2023-05-09
-tags: "linux", "automation"
+tags: 
+- linux
+- automation
 ---
 
 # Linux

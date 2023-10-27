@@ -1,8 +1,10 @@
 ---
-title: "managing homelab updates"
-type: "post"
+title: homelab updates
+type: post
 date: 2023-05-09
-tags: "selfhosting", "automation"
+tags: 
+- selfhosting
+- automation
 ---
 
 # Homelabbing

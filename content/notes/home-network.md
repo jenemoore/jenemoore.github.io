@@ -1,8 +1,10 @@
 ---
-title: "home networking with a home server"
-type: "post"
+title: home network
+type: post
 date: 2022-10-16
-tags: "networking", "selfhosting"
+tags: 
+- networking
+- selfhosting
 ---
 
 ##Home networking with a home server

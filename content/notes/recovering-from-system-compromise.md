@@ -1,8 +1,10 @@
 ---
-title: "recovering from system compromise"
-type: "post"
+title: recovering from system compromise
+type: post
 date: 2023-02-02
-tags: "linux", "security"
+tags: 
+- linux
+- security
 ---
 
 # CERT Coordination Center Guide to Recovering from a UNIX System Compromise
@@ -62,7 +64,7 @@ tags: "linux", "security"
 1.1.1. xferlog: logs all ftp transfers
 1.1.1. utmp: binary information for every user currently logged in (`who` command)
 1.1.1. wtmp: logs every time a user logs in, out, or your machine reboots; use `last` to see user names associated with timestamps and hostnames
-1.1.1. Some UNIX systems log tcp wrapper messages to a "secure" file
+1.1.1. Some UNIX systems log tcp wrapper messages to a secure file
 1.1. Look for signs of a network sniffer
 1.1.1.  Check for any interfaces in promiscuous mode: use `cpm` or `ifstatus`
 1.1.1. Use `df` to determine if part of the filesystem is larger than expected (ie contains a growing sniffer log): this utility is commonly replaced, be sure to use a fresh copy

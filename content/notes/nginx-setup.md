@@ -1,8 +1,10 @@
 ---
-title: "subdomains on nginx"
-type: "post"
+title: nginx setup
+type: post
 date: 2023-05-22
-tags: "selfhosting", "config"
+tags: 
+- selfhosting
+- config
 ---
 
 # NGINX

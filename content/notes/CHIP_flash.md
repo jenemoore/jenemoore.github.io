@@ -1,8 +1,12 @@
 ---
-title: "NextThingCo CHIP updates"
-type: "post"
+title: CHIP flashing
+type: post
 date: 2023-07-05
-tags: "firmware", "chip", "debian", "polished"
+tags: 
+- firmware
+- chip
+- debian
+- polished
 ---
 
 u Setting up the CHIP to run Debian Bullseye

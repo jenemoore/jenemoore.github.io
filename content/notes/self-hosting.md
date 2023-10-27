@@ -1,8 +1,10 @@
 ---
-title: "So You Want to Self-Host a Website"
-type: "post"
+title: self-hosting
+type: post
 date: 2023-01-29
-tags: "copied", "selfhosting"
+tags: 
+- copied
+- selfhosting
 ---
 
 ##So You Want To Self-Host A Website

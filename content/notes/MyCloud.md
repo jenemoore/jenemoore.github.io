@@ -1,8 +1,12 @@
 ---
-title: "Install Debian on a MyCloud Home"
-type: "post"
+title: MyCloud
+type: post
 date: 2023-01-29
-tags: "linux", "debian", "firmware", "mycloud"
+tags: 
+- linux
+- debian
+- firmware
+- mycloud
 ---
 
 

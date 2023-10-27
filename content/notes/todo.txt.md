@@ -1,8 +1,8 @@
 ---
-title: "todo.txt"
-type: "post"
+title: todo.txt
+type: post
 date: 2023-06-27
-tags: "todo"
+tags: todo
 ---
 
 # Todo.txt

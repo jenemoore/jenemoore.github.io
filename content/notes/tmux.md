@@ -1,8 +1,10 @@
 ---
-title: "tmux"
-type: "post"
+title: tmux
+type: post
 date: 2023-04-06
-tags: "networking", "linux"
+tags: 
+- networking
+- linux
 ---
 
 # Tmux

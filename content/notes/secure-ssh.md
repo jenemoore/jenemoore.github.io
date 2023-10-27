@@ -1,8 +1,12 @@
 ---
-title: "Securing an SSH Server"
-type: "post"
+title: secure ssh
+type: post
 date: 2023-02-02
-tags: "selfhosting", "networking", "security", "polished"
+tags: 
+- selfhosting
+- networking
+- security
+- polished
 ---
 
 # Securing an SSH Server

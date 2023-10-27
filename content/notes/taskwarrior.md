@@ -1,8 +1,8 @@
 ---
-title: "taskwarrior"
-type: "post"
+title: taskwarrior
+type: post
 date: 2023-07-11
-tags: "todo"
+tags: todo
 ---
 
 # Taskwarrior 

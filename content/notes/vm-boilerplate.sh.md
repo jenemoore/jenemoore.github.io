@@ -1,8 +1,10 @@
 ---
-title: "vm boilerplate script"
-type: "post"
+title: vm boilerplate
+type: post
 date:
-tags: "script", "quickref"
+tags: 
+- script
+- quickref
 ---
 
 ```
